@@ -71,9 +71,3 @@ It reflects real-world challenges:
 - Google Colab (T4 GPU)
 
 ---
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-python train.py
