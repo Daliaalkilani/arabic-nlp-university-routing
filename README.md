@@ -1,4 +1,4 @@
-# 🎓 Arabic Student Inquiry Classification using BERT Models
+#  Arabic Student Inquiry Classification using BERT Models
 
 ## 📖 Overview
 This project presents a high-accuracy Natural Language Processing (NLP) system for automatically classifying Arabic student inquiries in university environments.
