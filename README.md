@@ -103,4 +103,4 @@ This task includes several NLP challenges:
 
 ```bash
 git clone https://github.com/Daliaalkilani/Arabic-Nlp-University-Routing.git
-cd your-Arabic-Nlp-University-Routing
+cd Arabic-Nlp-University-Routing
